@@ -1,0 +1,41 @@
+.App img{
+    width:30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.connect{
+    text-align: center;
+}
+
+.socialmedia img{
+    width:60px
+
+}
+
+.socialmedia img:hover{
+    transform: scale(1.5); 
+
+}
+
+.sendmessage{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 32px;
+    
+}
+
+.name{
+    margin-top: 30px;
+}
+
+.email{
+    margin-top: 10px;
+}
+.subject{
+    margin-top: 10px;
+}
+.message{
+    margin-top: 10px;
+    
+}
