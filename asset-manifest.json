@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/css/main.cafefe75.chunk.css",
+    "main.js": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/main.5f10d18e.chunk.js",
+    "main.js.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/main.5f10d18e.chunk.js.map",
+    "runtime-main.js": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/runtime-main.395b70c2.js",
+    "runtime-main.js.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/runtime-main.395b70c2.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.7fa582a5.chunk.js": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/2.7fa582a5.chunk.js",
+    "static/js/2.7fa582a5.chunk.js.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/2.7fa582a5.chunk.js.map",
+    "static/js/3.be73d141.chunk.js": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/3.be73d141.chunk.js",
+    "static/js/3.be73d141.chunk.js.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/3.be73d141.chunk.js.map",
+    "index.html": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.cafefe75.chunk.css.map": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/css/main.cafefe75.chunk.css.map",
+    "static/js/2.7fa582a5.chunk.js.LICENSE.txt": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/js/2.7fa582a5.chunk.js.LICENSE.txt",
+    "static/media/back.1a7f0a2e.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/back.1a7f0a2e.png",
+    "static/media/delete.2f7bc772.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/delete.2f7bc772.png",
+    "static/media/facebook.13d509b1.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/facebook.13d509b1.png",
+    "static/media/instagram.75e0546a.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/instagram.75e0546a.png",
+    "static/media/linkedin.d21b8340.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/linkedin.d21b8340.png",
+    "static/media/loading.66b0a5f1.gif": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/loading.66b0a5f1.gif",
+    "static/media/logo.81e362a9.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/logo.81e362a9.png",
+    "static/media/logout.a7cf3408.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/logout.a7cf3408.png",
+    "static/media/twitter.89498832.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/twitter.89498832.png",
+    "static/media/user.7ffcf71e.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/user.7ffcf71e.png",
+    "static/media/whatsapp.d0269408.png": "/siddharth17vaishnav/BloggApp_Reactjs_MySql/static/media/whatsapp.d0269408.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395b70c2.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.7fa582a5.chunk.js",
+    "static/css/main.cafefe75.chunk.css",
+    "static/js/main.5f10d18e.chunk.js"
+  ]
+}
